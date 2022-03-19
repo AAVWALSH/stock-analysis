@@ -1,7 +1,6 @@
 # Refactoring Code to Better Analyse Stocks in VBA
 ## Module 2 VBA stock analysis
 
-Link to Excel file [VBA Challenge Stock- Analysis](VBA_Challenge.xlsm)
 
 ### Overview of Project
 The goal of this project was to analyse the performance of a set of 12 stocks over two years. We developed a table to quickly show the user that each individual stock's Total Daily Volume was and then the percentage return on investment. With the press of a button the user can receive a visualization of the returns.
@@ -12,7 +11,9 @@ While an initial functioning code was build it was then refactored to perform mo
 #### The Stocks
 The 2017 stock results show significant positive returns on investments. The following year 2018 proves the old investment addage that 'past performance does not predict future results' as most stocks performed negatively. 
 Here are the two years:
-![2017 stocks](https://github.com/AAVWALSH/stock-analysis/blob/a439cc4d35bf48849510341111a928ca24c04e21/Resources/2017%20stocks.png)
+![2017 stocks](/../main/stock-analysis/Resources/2017_stocks.png)
+
+(https://github.com/AAVWALSH/stock-analysis/blob/a439cc4d35bf48849510341111a928ca24c04e21/Resources/2017%20stocks.png)
 ![2018 Stocks](https://github.com/AAVWALSH/stock-analysis/blob/a439cc4d35bf48849510341111a928ca24c04e21/Resources/2018%20stocks.png)
 
 #### The Code
