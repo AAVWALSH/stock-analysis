@@ -1,7 +1,7 @@
 # Refactoring Code to Better Analyse Stocks in VBA
 ## Module 2 VBA stock analysis
 
-Link to Excel file [VBA Challenge Stock- Analysis](https://github.com/AAVWALSH/stock-analysis/blob/e5f3f392d7b9d562b46e62bd275f2ae34a8cc719/VBA_Challenge.xlsm)
+Link to Excel file [VBA Challenge Stock- Analysis](VBA_Challenge.xlsm)
 
 ### Overview of Project
 The goal of this project was to analyse the performance of a set of 12 stocks over two years. We developed a table to quickly show the user that each individual stock's Total Daily Volume was and then the percentage return on investment. With the press of a button the user can receive a visualization of the returns.
